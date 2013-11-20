@@ -17,5 +17,7 @@ sub bar
 	for my $i (0..30) {
 		print "bar: ", $i, $/;
 	}
+
+	print "exiting bar...\n";
 }
 

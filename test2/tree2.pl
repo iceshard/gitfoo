@@ -15,6 +15,8 @@ sub main
 
 	my %tree;
 
+	print "something new\n";
+
 	$tree{'abc'} = 123;
 	$tree{'def'} = 345;
 	$tree{'ghi'} = 345;

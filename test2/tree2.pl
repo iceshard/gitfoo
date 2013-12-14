@@ -23,5 +23,6 @@ sub main
 
 	map { print "$_ = $tree{$_}\n"; } sort keys %tree;
 
+	print "logging now\n";
 }
 

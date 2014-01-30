@@ -19,6 +19,15 @@ sub bar
 	}
 
 	print "exiting bar...\n";
+
+	foo();
 }
 
+sub foo
+{
+	print "foo...\n";
+	print "exiting foo...\n";
+}
 # this is for feature 1
+#
+#

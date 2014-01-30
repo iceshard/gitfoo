@@ -7,6 +7,7 @@ for my $i (0..20) {
 }
 
 bar();
+foo3();
 
 exit;
 
@@ -23,11 +24,18 @@ sub bar
 	foo();
 }
 
+sub foo3
+{
+	print "feature3 for foo3...\n";
+	print "bye now";
+
+}
+
 sub foo
 {
 	print "foo...\n";
 	print "exiting foo...\n";
 }
-# this is for feature 1
+# this is for feature 3
 #
 #

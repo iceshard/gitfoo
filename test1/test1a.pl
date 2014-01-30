@@ -26,8 +26,11 @@ sub bar
 sub foo
 {
 	print "foo...\n";
+
+	print "now I'm am putting things into foo\n";
+
 	print "exiting foo...\n";
 }
-# this is for feature 1
+# this is for feature 2 now
 #
 #

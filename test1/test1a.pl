@@ -34,6 +34,9 @@ sub foo3
 sub foo
 {
 	print "foo...\n";
+
+	print "now I'm am putting things into foo\n";
+
 	print "exiting foo...\n";
 }
 # this is for feature 3

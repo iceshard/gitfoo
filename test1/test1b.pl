@@ -3,7 +3,9 @@
 
 use strict;
 
+my $j = 99;
+
 for my $i (0..10) {
-	print "b...",$i,$/;
+	print "b...",$i," featuer 1",$/;
 }
 

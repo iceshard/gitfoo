@@ -11,7 +11,7 @@ sub feature3
 }
 
 for my $i (0..10) {
-	print "b...",$i," feature 3",$/;
+	print "b...",$i," feature 3b",$/;
 }
 
 feature3();

@@ -29,6 +29,8 @@ sub foo3
 	print "feature3 for foo3...\n";
 	print "bye now";
 
+	print "I added this for take 2 of f3\n";
+
 }
 
 sub foo
@@ -36,6 +38,6 @@ sub foo
 	print "foo...\n";
 	print "exiting foo...\n";
 }
-# this is for feature 3
+# this is for feature 3b
 #
 #

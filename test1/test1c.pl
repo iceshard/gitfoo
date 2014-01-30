@@ -10,4 +10,8 @@ for my $i (0..120) {
 
 exit 0;
 
+# oh yeah, i forgot something
+#
+__DATA__
+feature3
 

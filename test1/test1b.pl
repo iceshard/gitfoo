@@ -15,3 +15,8 @@ for my $i (0..10) {
 }
 
 feature3();
+
+sub foo2
+{
+	print "this is for feature2, take 2";
+}

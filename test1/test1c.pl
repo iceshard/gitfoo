@@ -5,7 +5,7 @@
 use strict;
 
 for my $i (0..120) {
-	print "ccc...",$i,$/;
+	print "ccc... now in feature 2",$i,$/;
 }
 
 exit 0;
